@@ -17,3 +17,5 @@ yarn add @types/styled-components
 
 yarn add polished
 yarn add react-icons
+
+yarn add axios
